@@ -77,6 +77,18 @@ opacity: .7;
   width: auto;
 }
 
+#year {
+  font-size: .6em;
+}
+
+.edu img{
+  height: 14em;
+  width: auto;
+  border: 3px solid green;
+}
+
+}
+
 footer {
   font-size: 10px;
   text-align: center;
