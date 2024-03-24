@@ -1,0 +1,84 @@
+body {
+  font-family: verdana;
+  color: #544D4C;
+  border: 3px solid #544D4C;
+  padding: 5px;
+  margin: 5px; 
+  background-image: url('https://media.istockphoto.com/id/1320866178/photo/beautiful-and-simple-background-of-white.jpg?s=2048x2048&w=is&k=20&c=XUShS_DUG0Za72m_IhP6oYmSuTkup4OhjiI3b76WvU8=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+h1 {
+  
+  padding: 5x;
+  display: flex;
+  text-align: center;
+  font-size: 3em;
+}  
+
+.intro h4 {
+  font-variant: small-caps;  
+}
+
+  .intro p{
+    font-size: .8em;
+    margin: 0px;
+  }
+
+.intro p:last-of-type {
+  padding-bottom: 10px;
+}
+
+.break {
+  border-bottom: 2px solid #544D4C;
+  margin: 2px 0;
+  padding-bottom: 10px;
+}
+
+#wmlogo {
+  border-radius: 10px;
+  opacity: .7;
+  height: 100px;
+  width: 283px;
+  border: 5px solid red;
+  padding: 0;
+  margin-top: 4px;
+  margin-left: 4px;
+  box-shadow: 10px 10px 5px #544D4C;
+  
+}
+
+#hblogo {
+  border-radius: 10px;
+opacity: .7;
+  height: 100px;
+  width: 283px;
+  border: 5px solid red;
+  padding: 0px 1px;
+  margin-top: 4px;
+  margin-left: 4px;
+  box-shadow: 10px 10px 5px #544D4C;
+}
+
+#right {
+ text-align: justify; 
+  color: ;
+  font-family: fantasy;
+  font-size: 2em;
+  
+}
+
+
+#locations img{
+  height: 100px;
+  width: auto;
+}
+
+footer {
+  font-size: 10px;
+  text-align: center;
+  
+}
