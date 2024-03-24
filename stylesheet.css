@@ -82,9 +82,10 @@ opacity: .7;
 }
 
 .edu img{
-  height: 14em;
+  height: 12em;
   width: auto;
   border: 3px solid green;
+  object-fit: scale-down;
 }
 
 .footer {
